@@ -2,6 +2,8 @@
 
 A Vite + React webpage for the creative worldbuilding generator assignment.
 
+Live: https://eryndor-active-condition-generator.vercel.app
+
 ## Local preview
 ```bash
 npm install
